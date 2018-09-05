@@ -1,1 +1,1 @@
-function add5() { number += 5}
+function add5(a, b) {a + b}
