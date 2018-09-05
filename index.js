@@ -11,5 +11,6 @@ function multiply(a, b) {
     return a * b}
 
 function inc(n){
-  return n++
+  n++;
+  return n
 }
